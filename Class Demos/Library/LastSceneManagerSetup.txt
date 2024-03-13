@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Week 7/Scenes/Week6Maze.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
